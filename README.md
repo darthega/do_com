@@ -9,4 +9,4 @@ So far I've made the choice to give typescript a try, so all I've done so far is
 
 `npm install -g typescript`
 
-Following the typescrit's [www.typescriptlang.org/](site) recommendation, I've installed the module as a global resource for my local environment.
+Following the typescrit's [site](www.typescriptlang.org/) recommendation, I've installed the module as a global resource for my local environment.
